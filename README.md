@@ -129,7 +129,8 @@ Boxes
 License and Author
 ==================
 
-- Author:: yvesc, original by Achim Rosenhagen 
+- Original by Achim Rosenhagen 
+- Author:: Adaptation by yvesc for specific use, 
 - Copyright:: 2014
 
 Licensed under the Apache License, Version 2.0 (the "License");
